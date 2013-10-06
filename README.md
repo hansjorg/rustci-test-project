@@ -1,1 +1,1 @@
-Test project for rust-ci
+Test project for rust-ci.
