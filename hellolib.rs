@@ -7,5 +7,5 @@ pub fn hello_string() -> &str {
 
 #[test]
 pub fn test_lib() {
-    assert_eq!("Hello world?", hello_string());
+    assert_eq!("Hello world!", hello_string());
 }
