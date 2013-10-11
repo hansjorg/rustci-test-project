@@ -1,3 +1,4 @@
+#[feature(globs)];
 
 extern mod hellolib;
 
