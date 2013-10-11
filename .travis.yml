@@ -4,4 +4,4 @@ before_install:
 install:
   - sudo apt-get install rust-nightly
 script:
-  - rust test hellolib.rs
+  - rustc --test hellolib.rs
