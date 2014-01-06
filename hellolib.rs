@@ -1,4 +1,4 @@
-#[link(name = "hellolib", vers = "0.1")];
+#[crate_id = "hellolib#0.1"];
 #[crate_type = "lib"];
 
 pub fn hello_string() -> &str {
